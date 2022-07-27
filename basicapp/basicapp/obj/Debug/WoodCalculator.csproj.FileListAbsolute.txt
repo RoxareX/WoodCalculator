@@ -1,0 +1,15 @@
+C:\Users\RoxareX\source\repos\basicapp\basicapp\bin\Debug\basicapp.exe.config
+C:\Users\RoxareX\source\repos\basicapp\basicapp\bin\Debug\basicapp.exe.manifest
+C:\Users\RoxareX\source\repos\basicapp\basicapp\bin\Debug\basicapp.application
+C:\Users\RoxareX\source\repos\basicapp\basicapp\bin\Debug\basicapp.exe
+C:\Users\RoxareX\source\repos\basicapp\basicapp\bin\Debug\basicapp.pdb
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\WoodCalculator.csproj.AssemblyReference.cache
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\WoodCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\basicapp.Form1.resources
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\basicapp.Properties.Resources.resources
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\WoodCalculator.csproj.GenerateResource.cache
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\WoodCalculator.csproj.CoreCompileInputs.cache
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\basicapp.exe.manifest
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\basicapp.application
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\basicapp.exe
+C:\Users\RoxareX\source\repos\basicapp\basicapp\obj\Debug\basicapp.pdb
